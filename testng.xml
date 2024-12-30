@@ -1,0 +1,7 @@
+<suite name="gRPC Test Suite" parallel="tests" thread-count="2">
+    <test name="gRPC Tests">
+        <classes>
+            <class name="com.grpcautomation.tests.GrpcTest" />
+        </classes>
+    </test>
+</suite>
